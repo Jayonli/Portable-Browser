@@ -3,8 +3,8 @@
 
 这是一个由官方安装包提取/打包的 **Google Chrome 绿色免安装版本**。无需在系统内安装，解压即可直接使用，所有用户数据均保存在本地文件夹内，真正做到“放进U盘，随插随用”。
 - 谷歌浏览器：https://chromeenterprise.google/download/?modal-id=download-chrome#windows-download
--    64 位企业 MSI	https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi
--    32 位企业 MSI	https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi
+   + 64 位企业 MSI	https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi
+   + 32 位企业 MSI	https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise.msi
 - Edge浏览器：https://explore.microsoft.com/en-us/edge/business/download?form=MA13FJ
 
 
