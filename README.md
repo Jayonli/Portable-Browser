@@ -2,8 +2,8 @@
 # 🌐 Google Chrome/Edge 便携版 (Portable)
 
 这是一个由官方安装包提取/打包的 **Google Chrome 绿色免安装版本**。无需在系统内安装，解压即可直接使用，所有用户数据均保存在本地文件夹内，真正做到“放进U盘，随插随用”。
-谷歌浏览器：https://chromeenterprise.google/download/?modal-id=download-chrome#windows-download
-Edge浏览器：https://explore.microsoft.com/en-us/edge/business/download?form=MA13FJ
+- 谷歌浏览器：https://chromeenterprise.google/download/?modal-id=download-chrome#windows-download
+- Edge浏览器：https://explore.microsoft.com/en-us/edge/business/download?form=MA13FJ
 
 ## ✨ 版本信息
 - **适用系统**：Windows 10 / Windows 11 (64位)
